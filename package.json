@@ -9,6 +9,7 @@
    "author": "Joe Andaverde",
    "license": "MIT",
    "dependencies": {
+      "cross-spawn": "^7.0.3",
       "globby": "^9.2.0",
       "loader-utils": "^1.1.0",
       "lodash": "^4.17.15",

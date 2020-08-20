@@ -4,7 +4,7 @@ const _ = require('lodash')
 const Path = require('path')
 const LoaderUtils = require('loader-utils')
 const Fs = require('fs')
-const Spawn = require('child_process').spawn
+const Spawn = require('cross-spawn')
 const Globby = require('globby')
 const TempFile = require('temp')
 
